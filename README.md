@@ -7,7 +7,7 @@
 Requires [Node.js](https://nodejs.org/en/).
 
 ```bash
-# Install dependencies for server
+# Install app dependencies
 npm install
 
 # Run the app
