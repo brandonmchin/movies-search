@@ -1,0 +1,28 @@
+.App-header {
+  /*background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;*/
+  background-color: #000;
+  display: block;
+  color: #fff;
+}
+
+.search-bar {
+  font-size: 24;
+  display: block;
+  width: 99%;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
